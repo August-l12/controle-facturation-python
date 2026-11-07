@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+cle_de_controle.json
+factures_nettoyees.csv
